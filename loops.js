@@ -1,4 +1,4 @@
-//complete loops in javascript 
+
 // For loop 
 
 for (let i = 0; i<=5; i++){
