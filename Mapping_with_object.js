@@ -1,3 +1,4 @@
+// Mapping_with_object
 let numbers= [1,2,3,4];
 let filtered = numbers.filter(value => value >=0); 
 let items = filtered.map (function (num) {
