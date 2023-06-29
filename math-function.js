@@ -1,3 +1,5 @@
+//function 
+
 math.random(); 
 math.round();
 math.max(); 
